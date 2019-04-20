@@ -1,0 +1,2 @@
+# Colorful-Kruna
+Plasma Theme
