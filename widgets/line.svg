@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,17 +14,16 @@
    height="128"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    version="1.0"
-   sodipodi:docbase="/opt/svn/kdebase/workspace/plasma/desktoptheme/widgets"
-   sodipodi:docname="line.svgz"
+   sodipodi:docname="line.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    inkscape:export-filename="arrow-up.png"
    inkscape:export-xdpi="11.25"
    inkscape:export-ydpi="11.25">
   <sodipodi:namedview
      id="base"
-     pagecolor="#9a9a9a"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      gridtolerance="10000"
@@ -31,19 +31,20 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="62.369908"
-     inkscape:cy="46.445216"
+     inkscape:zoom="11.313709"
+     inkscape:cx="52.874333"
+     inkscape:cy="64.793952"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
-     showgrid="true"
-     inkscape:window-width="1110"
-     inkscape:window-height="710"
-     inkscape:window-x="463"
-     inkscape:window-y="193"
-     inkscape:snap-nodes="true">
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:snap-nodes="true"
+     inkscape:window-maximized="1">
     <inkscape:grid
        enabled="true"
        visible="true"
@@ -52,10 +53,10 @@
        opacity="0.2"
        empcolor="#0000ff"
        color="#0000ff"
-       spacingy="1px"
-       spacingx="1px"
-       originy="0px"
-       originx="0px"
+       spacingy="1"
+       spacingx="1"
+       originy="0"
+       originx="0"
        type="xygrid"
        id="GridFromPre046Settings" />
   </sodipodi:namedview>
@@ -88,7 +89,7 @@
        xlink:href="#linearGradient3272"
        id="radialGradient2701"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.6250001,0,0,2.2075201,-199.00001,-172.90313)"
+       gradientTransform="matrix(2.6250001,0,0,0.13390848,-199.00001,-45.490113)"
        cx="88"
        cy="93.5"
        fx="88"
@@ -110,7 +111,7 @@
        xlink:href="#linearGradient3272"
        id="radialGradient2708"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.6250001,0,0,2.2075201,-199.00001,-174.90313)"
+       gradientTransform="matrix(2.6250001,0,0,1.1037601,-199.00001,-71.451569)"
        cx="88"
        cy="93.5"
        fx="88"
@@ -121,7 +122,7 @@
        xlink:href="#linearGradient3272"
        id="radialGradient2716"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.6250001,0,0,2.2075201,-241,-196.90313)"
+       gradientTransform="matrix(2.6250001,0,0,2.2075201,-241,-197.60313)"
        cx="88"
        cy="93.5"
        fx="88"
@@ -143,7 +144,7 @@
        xlink:href="#linearGradient3272"
        id="radialGradient2723"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.6250001,0,0,2.2075201,-241,-198.90313)"
+       gradientTransform="matrix(2.6250001,0,0,2.2075201,-241,-198.60313)"
        cx="88"
        cy="93.5"
        fx="88"
@@ -158,6 +159,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -231,26 +233,26 @@
        style="opacity:0.45945943" />
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Gill Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-200"
        y="284"
-       id="text6990"
-       sodipodi:linespacing="125%"><tspan
+       id="text6990"><tspan
          sodipodi:role="line"
          id="tspan6992"
          x="-200"
-         y="284" /></text>
+         y="284"
+         style="font-size:14px;line-height:1.25"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Gill Sans"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-176.72227"
        y="268.58057"
-       id="text2705"
-       sodipodi:linespacing="125%"><tspan
+       id="text2705"><tspan
          sodipodi:role="line"
          id="tspan2707"
          x="-176.72227"
-         y="268.58057" /></text>
+         y="268.58057"
+         style="font-size:14px;line-height:1.25"> </tspan></text>
     <g
        id="horizontal-line"
        transform="translate(26,45)">
@@ -262,19 +264,20 @@
          x="11"
          y="32" />
       <rect
-         y="33"
+         y="-33"
          x="11"
-         height="1"
+         height="0.060660142"
          width="42"
          id="rect4209"
-         style="opacity:0.65;fill:url(#radialGradient2701);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:0.65;fill:url(#radialGradient2701);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2462928;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="scale(1,-1)" />
       <rect
-         style="opacity:0.65;fill:url(#radialGradient2708);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.65;fill:url(#radialGradient2708);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect2706"
          width="42"
-         height="1"
+         height="0.49999997"
          x="11"
-         y="31" />
+         y="31.500002" />
     </g>
     <g
        id="vertical-line"
@@ -288,21 +291,21 @@
          id="rect4227"
          style="opacity:0.7;fill:url(#radialGradient2719);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         transform="matrix(0,-1,1,0,0,0)"
+         transform="rotate(-90)"
          style="opacity:0.65;fill:url(#radialGradient2716);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4229"
          width="42"
          height="1"
          x="-31"
-         y="9" />
+         y="8.2999983" />
       <rect
-         y="7"
+         y="7.3000002"
          x="-31"
          height="1"
          width="42"
          id="rect2721"
          style="opacity:0.65;fill:url(#radialGradient2723);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         transform="matrix(0,-1,1,0,0,0)" />
+         transform="rotate(-90)" />
     </g>
   </g>
 </svg>
